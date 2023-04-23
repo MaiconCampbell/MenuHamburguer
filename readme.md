@@ -7,11 +7,14 @@
 
   - Criar menu Hamburguer
 
-  ## Tela Login do Insta 1024X850
-  ![alt text](https://github.com/MaiconCampbell/LoginInstaClone/blob/main/assets/tela_1024X850.png)
+  ## Tela sem efeito
+  ![alt text](https://github.com/MaiconCampbell/MenuHamburguer/blob/main/img/Tela%20Menu%20%20normalizado.png)
 
-  ## Tela Login do Insta 375X850
-  ![alt text](https://github.com/MaiconCampbell/LoginInstaClone/blob/main/assets/tela_375X850.png)
+    ## Tela sem efeito
+  ![alt text](https://github.com/MaiconCampbell/MenuHamburguer/blob/main/img/Tela%20Menu%20Hamburguer.png)
+
+  ## Tela Menu Hamburguer
+  ![alt text](https://github.com/MaiconCampbell/MenuHamburguer/blob/main/img/Tela%20Menu%20Hamburguer%20Aberto.png)
 
 <div>
   <p style='font-size: 22px'>
